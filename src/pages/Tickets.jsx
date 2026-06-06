@@ -62,7 +62,6 @@ export default function Tickets() {
 
         {tickets.length === 0 ? (
           <div className="no-tickets">
-            <div className="no-icon">🎫</div>
             <h3>No tickets yet</h3>
             <p>Submit a service request on the home page and it will appear here.</p>
           </div>
