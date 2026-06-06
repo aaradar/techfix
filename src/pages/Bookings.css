@@ -146,6 +146,13 @@
   color: var(--text);
 }
 
+.side-time {
+  font-family: var(--font-mono);
+  font-size: .75rem;
+  color: var(--accent);
+  margin-top: .3rem;
+}
+
 .side-empty {
   font-size: .85rem;
   color: var(--text-muted);

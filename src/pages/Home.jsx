@@ -80,7 +80,7 @@ export default function Home() {
             We Deliver.
           </h1>
           <p className="hero-sub">
-            We provide services for a wide range of technology. <br/> Book today and we'll get back to you within 24 hours!
+            Hello, I am Alexander Radar! The owner of Techfix! <br/> I went to University of Ottawa and would be happy to help any business or students. <br/> Book today and we'll get back to you within 24 hours! <br/> We hope to see you soon!
           </p>
           <div className="hero-stats">
             <div className="stat"><span className="stat-num">—</span><span className="stat-label">Repairs Done</span></div>
@@ -113,17 +113,17 @@ export default function Home() {
           <div className="form-intro">
             <h2 className="section-title">Book a Service</h2>
             <p className="form-desc">
-              Fill out the form and we'll get back to you within 24 hours to confirm your appointment.
-              Walk-ins are also welcome during business hours.
+              Fill out the form and we'll get back to you as fast as possible! <br/>Within at least 24 hours to confirm your appointment!
+              Walk-ins are also welcome and during business hours.
             </p>
             <div className="contact-block">
               <div className="contact-row">
                 <span className="contact-icon">📍</span>
-                <span>[900 Industrial Drive]</span>
+                <span>[900 University Drive]</span>
               </div>
               <div className="contact-row">
                 <span className="contact-icon">📞</span>
-                <span>[+1 (613)-000-8686]</span>
+                <span>[+1 (613)-600-8686]</span>
               </div>
               <div className="contact-row">
                 <span className="contact-icon">✉️</span>

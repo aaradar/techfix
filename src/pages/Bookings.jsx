@@ -104,6 +104,7 @@ export default function Bookings() {
                 </div>
                 <p className="side-name">{t.name}</p>
                 <p className="side-problem">{t.problem}</p>
+                {t.apptTime && <p className="side-time">🕐 {t.apptTime}</p>}
               </div>
             ))}
             {!selected && tickets.length === 0 && (
