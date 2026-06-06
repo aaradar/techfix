@@ -35,5 +35,5 @@ Opens at `http://localhost:5173/techfix/`
 ## Cloning
 
 ```bash
-git clone git@github.com:aaradar/Service-Site.git 
+git clone git@github.com:aaradar/techfix.git 
 ```
