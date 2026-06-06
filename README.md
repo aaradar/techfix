@@ -32,11 +32,8 @@ yarn start
 
 Opens at `http://localhost:5173/techfix/`
 
-## Deploying
+## Cloning
 
 ```bash
-git add .
-git commit -m "describe change"
-git push
-yarn deploy
+git clone git@github.com:aaradar/Service-Site.git 
 ```
